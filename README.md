@@ -41,3 +41,8 @@
 [v18 R4](https://blog.4d.com/server-code-development-in-project-applications/)では，サーバーマシン側で起動したクライアント（**ローカルクライアント**）に限り，実行中のプロジェクトが編集できるようになりました。ローカルクライアントのファイルメニューで「すべて保存」を選択したり，デザインモードからアプリケーションモードに切り替えたり，サーバーアプリケーションを最前面に移動したりすれば，プロジェクトがリロードされ，変更が反映されます。[RELOAD PROJECT](https://doc.4d.com/4Dv18R5/4D/18-R5/RELOAD-PROJECT.301-5128720.ja.html)を実行することもできます。
 
 ![v18-version-control 036](https://user-images.githubusercontent.com/1725068/110056218-bb44ff80-7da1-11eb-9926-5ada59152f1b.jpeg)
+
+| | バイナリモード | プロジェクト | プロジェクト＋ローカルクライアント（v18 R4以降） |
+| --- | --- | --- | --- |
+|4D Serverで開発| ● |  | ● |
+|4Dで開発| ● | ● | ● |
