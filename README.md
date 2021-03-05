@@ -3,7 +3,7 @@
 ### アプリケーションをチームで開発したい場合，どのような選択肢がありますか
 
 1. バイナリモード vs プロジェクトモード
-2. 4D or 4D Server
+2. 4D vs 4D Server
 3. ローカルクライアント vs リモートクライアント
 4. Team Developer Professional vs Developer Professional ライセンス
 
